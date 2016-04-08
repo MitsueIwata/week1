@@ -6,7 +6,7 @@ Clone this repository if you would like to be able to pull updates after class.
 
 ### HTML5 and CSS3
 
-There are lots of good resources on the web, feel free to google.  I like http://www.w3schools.com for reference, as well as http://www.mdn.com.
+There are lots of good resources on the web, feel free to google.  I like http://www.w3schools.com for reference, as well as https://developer.mozilla.org/en-US/.
 
 I'll probably be using the Bootstrap CSS framework to make it easier to visuall style the apps that we write in class. http://getbootstrap.com/
 
