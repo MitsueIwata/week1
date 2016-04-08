@@ -14,7 +14,7 @@ I'll probably be using the Bootstrap CSS framework to make it easier to visuall 
 
 For a cool reminder of the difference between CSS and HTML, try http://csszengarden.com.
 
-See the Bootstrap Grid Cheat Sheet in this repository.
+See the [Bootstrap Grid Cheat Sheet](bootstrap.md) in this repository.
 
 ### How to run Ruby scripts
 
