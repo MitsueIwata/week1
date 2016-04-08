@@ -92,4 +92,4 @@ The `-md-` part means that columns will appear on "medium"-size screens, and the
 
 The `-md-` family of column widths isn't the only option.  To prevent stacking on smaller devices, use `-sm-` and `-xs-` as needed.  
 
-You can even use multiple designations on a column, which is helpful when you want different column widths depending on the device size, like `<div class="col-md-6 col-xs-3">` which would take up half the screen on a medium device but only one-fourth of the screen on an extra-small device.
+You can even use multiple designations on a column, which is helpful when you want different column widths depending on the device size, like `<div class="col-md-3 col-xs-6">` which would take up half the screen on a small device but only one-fourth of the screen on a medium-sized device.
