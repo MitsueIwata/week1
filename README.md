@@ -2,7 +2,9 @@
 
 An introduction to HTML5, CSS3, and Ruby.
 
-Clone this repository if you would like to be able to pull updates after class.
+Fork this repository so that I can capture your GitHub username.
+
+Then clone your fork.
 
 ### HTML5 and CSS3
 
